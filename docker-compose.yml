@@ -1,0 +1,7 @@
+services:
+  osmium-tool:
+    image: sias32/osmium-tool:1.18.0
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: osmium-tool
