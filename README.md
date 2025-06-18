@@ -4,7 +4,9 @@ Osmium Tool on Docker
 
 Read the tool [docs](https://osmcode.org/osmium-tool/)
 
-GitHub - [Official](https://github.com/osmcode/osmium-tool) [Me](https://hub.docker.com/r/sias32/osmium-tool)
+GitHub:
+- [Official](https://github.com/osmcode/osmium-tool)
+- [Me](https://hub.docker.com/r/sias32/osmium-tool)
 
 Example usage:
 
